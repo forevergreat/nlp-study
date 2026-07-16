@@ -1,5 +1,5 @@
 """
-run_mcp.py — 方式二：MCP Host（连接多 Server，多轮循环调用）
+run_mcp-modified.py — 方式二：MCP Host（连接多 Server，多轮循环调用）
 
 教学重点：
   1. 工具来自"协议发现"而非手写：connect_all_servers 一次走完
