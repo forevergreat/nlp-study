@@ -1,5 +1,5 @@
 """
-run_cli.py — 方式三：CLI（命令行即工具），两种形态
+run_cli-modified.py — 方式三：CLI（命令行即工具），两种形态
 
 教学重点：
   1. 形态 A（具名 run_cli）：LLM 调一个 run_cli(command, args) 工具，command 是白名单 enum，
